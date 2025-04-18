@@ -1,7 +1,7 @@
-import genio from "../assets/images/genio.jpeg";
-import draic from "../assets/images/image2.png";
-import rbl from "../assets/images/RBL.png";
-import stealth from "../assets/images/stealth.jpeg";
+import genio from "../assets/images/L&T.png";
+import draic from "../assets/images/Infolabz.jpg";
+import rbl from "../assets/images/Tomato.jpg";
+import stealth from "../assets/images/Agamverse.png";
 
 import { blue, green, pink, yellow } from "../utils";
 
@@ -35,11 +35,11 @@ export const experiences = [
   },
   {
     logo: draic,
-    name: "infoLabz",
+    name: "InfoLabz",
     joined: "Sept'23",
     end: "Oct'23",
     title: "Internship",
-    bio: "In D.Y. Patil Robotics and A.I. club we developed collaborative skills. Built amazing projects and brainstormed on various problem statements",
+    bio: "During my internship at Infolabz IT Services, I honed my skills in machine learning and data analytics. It was an amazing opportunity to collaborate with a talented team, where I worked on innovative projects and developed a Convolutional Neural Network (CNN) model.",
     color: pink,
   },
 ];
