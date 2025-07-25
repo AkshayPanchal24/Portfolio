@@ -6,6 +6,13 @@ import getv from "../assets/images/InsideTheEngine.png";
 import gateAR from "../assets/images/GateAR.png";
 
 export const projects = [
+    {
+    title: "Beyond Borders",
+    description:
+      "Travel the world in VR—no passport required.",
+    image: stonks,
+    link: "https://github.com/teshank2137/smartAtendence",
+  },
   {
     title: "Inside the Engine",
     image: getv,
@@ -33,13 +40,6 @@ export const projects = [
       "Try stunning jewelry on yourself in real-time using AR—no mirror or store needed.",
     image: scroll,
     link: "https://twitter.com/FindTechie",
-  },
-  {
-    title: "Beyond Borders",
-    description:
-      "Travel the world in VR—no passport required.",
-    image: stonks,
-    link: "https://github.com/teshank2137/smartAtendence",
   },
   {
     title: "GateAR",
