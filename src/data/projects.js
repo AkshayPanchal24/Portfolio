@@ -11,7 +11,7 @@ export const projects = [
     description:
       "Travel the world in VR—no passport required.",
     image: stonks,
-    link: "https://github.com/teshank2137/smartAtendence",
+    link: "https://www.meta.com/en-gb/experiences/agam-explore/9420100368089715/",
   },
   {
     title: "Inside the Engine",
