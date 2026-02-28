@@ -1,45 +1,138 @@
-# My Portfolio
+Akshay Panchal – XR Developer Portfolio | AR/VR | Unity | React | Three.js
 
-## Description
-Welcome to my Software Engineering Portfolio! This project showcases my skills and projects in software engineering, built with ReactJS and ThreeJS. It's designed to provide an interactive and engaging user experience, highlighting my proficiency in modern web development technologies.
+🌐 Live Website
 
-## Features
-- **Interactive 3D Elements**: Utilizing ThreeJS for dynamic and responsive 3D graphics.
-- **Responsive Design**: Crafted to provide a seamless experience on various devices and screen sizes.
-- **Project Showcase**: Detailed information about my software engineering projects, including descriptions, technologies used, and links to live demos or code repositories.
+👉 https://akshaypanchal.online
 
-## Getting Started
+⸻
 
-### Prerequisites
-- Node.js and npm (Node Package Manager) installed on your system. You can download them from [Node.js official website](https://nodejs.org/).
+🚀 About This Project
 
-### Installing
-To get a local copy up and running, follow these simple steps:
+This is the official portfolio of Akshay Panchal, an XR Developer and Game Developer specializing in:
+	•	AR/VR Development
+	•	Unity Engine
+	•	Interactive 3D Web Experiences
+	•	React & Vite Applications
+	•	Three.js / WebGL
+	•	Immersive Technology Solutions
 
-```bash
+This portfolio demonstrates real-world projects in Extended Reality (XR), Virtual Reality (VR), Augmented Reality (AR), and Interactive Web Development.
+
+It is built using a modern frontend stack and deployed using GitHub Pages with a custom domain.
+
+⸻
+
+🛠 Tech Stack & Skills
+
+XR & Game Development
+	•	Unity Engine
+	•	AR/VR Application Development
+	•	3D Interaction Design
+	•	XR Prototyping
+	•	Immersive Experience Development
+
+Web Development
+	•	React
+	•	Vite
+	•	Three.js
+	•	React Three Fiber
+	•	WebGL
+	•	JavaScript (ES6+)
+	•	HTML5 & CSS3
+
+Deployment & DevOps
+	•	Git
+	•	GitHub
+	•	GitHub Pages
+	•	Custom Domain Configuration
+	•	DNS Management
+	•	HTTPS / SSL Setup
+
+⸻
+
+✨ Portfolio Highlights
+	•	🎮 Interactive 3D Web Elements powered by Three.js
+	•	🌐 XR-focused project showcase
+	•	📱 Fully responsive layout
+	•	⚡ Optimized production build using Vite
+	•	🔒 Secure deployment with HTTPS
+
+⸻
+
+🏗 Local Development Setup
+
+Prerequisites
+	•	Node.js (v16+ recommended)
+	•	npm
+
+Download from: https://nodejs.org/
+
+⸻
+
+Installation
+
 # Clone the repository
-git clone "Link to this Document"
+git clone https://github.com/AkshayPanchal24/Portfolio.git
 
 # Navigate to the project directory
-cd portfolio
+cd Portfolio
 
 # Install dependencies
 npm install
 
-# Run the application
+# Start development server
 npm run dev
-```
 
-## Usage
-After running the application, you can navigate through the portfolio to explore my software engineering projects. The interactive 3D elements powered by ThreeJS can be interacted with to gain a dynamic view of my skills and experiences.
+Development server runs at:
 
-## Credit/Attribution
-If you are using this code or any part of it in your projects, I kindly request that you give proper credit by linking back to my portfolio or GitHub repository. Please include the following line in your project's documentation or credits section:
-
-"Portions of this code were developed by Teshank Raut. You can find the original project at https://teshank.dev or https://github.com/teshank2137/portfolio."
-
-## License
-This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
+http://localhost:5173
 
 
-For more information about the Apache License 2.0, please visit [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+⸻
+
+🚀 Production Deployment
+
+This portfolio is deployed using GitHub Pages with a custom domain.
+
+To deploy manually:
+
+npm run deploy
+
+The deployment process:
+	•	Builds optimized production assets
+	•	Publishes to gh-pages branch
+	•	Serves via GitHub Pages CDN
+	•	Uses custom domain (akshaypanchal.online)
+
+⸻
+
+📁 Project Structure
+
+Portfolio/
+ ├── src/              # Main React source code
+ ├── public/           # Static assets & CNAME
+ ├── assets/           # 3D models, images
+ ├── vite.config.js    # Vite configuration
+ └── package.json
+
+
+⸻
+
+📌 Keywords (For Discoverability)
+
+XR Developer, AR Developer, VR Developer, Unity Developer, Game Developer, React Developer, Three.js Developer, WebGL Portfolio, Immersive Technology Engineer, Interactive 3D Web Developer, Extended Reality Developer, Frontend Developer India.
+
+⸻
+
+🤝 Connect With Me
+	•	🌐 Website: https://akshaypanchal.online
+	•	💼 LinkedIn: https://linkedin.com/in/akshaypanchal24
+	•	📧 Email: akshaypanchal570@gmail.com
+
+⸻
+
+📜 License
+
+Licensed under the Apache License 2.0.
+
+⸻
