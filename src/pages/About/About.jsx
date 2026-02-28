@@ -3,7 +3,7 @@ import gsap from "gsap";
 import Flip from "gsap/Flip";
 import React, { useEffect } from "react";
 import { Page } from "../../components/Page";
-import { blue, green, yellow } from "../../utils";
+import { blue, green, pink, yellow } from "../../utils";
 import { Educations, Paragraph, SkillsWrapper, Text } from "./About.styled";
 import { AboutItem } from "./AboutItem";
 import Skills from "./SkillBall";
@@ -66,7 +66,7 @@ export const About = () => {
               }}
             />
             <AboutItem
-              color={green}
+              color={pink}
               data={{
                 title: "Uka Tarsadia University",
                 p: "Mechanical Engineering (2018-2021)",

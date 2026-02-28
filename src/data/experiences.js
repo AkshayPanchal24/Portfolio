@@ -4,7 +4,7 @@ import rbl from "../assets/images/Tomato.jpg";
 import stealth from "../assets/images/Agamverse.png";
 import melzo from "../assets/images/Melzo.jpeg";
 
-import { blue, green, pink, yellow, orange } from "../utils";
+import { blue, green, pink, yellow, orange, red } from "../utils";
 
 export const experiences = [
   {
@@ -32,7 +32,7 @@ export const experiences = [
     end: "July'24",
     title: "Unity Developer",
     bio: "Collaborated with mentors and teammates to brainstorm ideas for game mechanics and features. Developed backend systems for game data management and user authentication using Unity and C#.",
-    color: green,
+    color: pink,
   },
   {
     logo: genio,
@@ -50,6 +50,6 @@ export const experiences = [
     end: "Oct'23",
     title: "Internship",
     bio: "During my internship at Infolabz IT Services, I honed my skills in machine learning and data analytics. It was an amazing opportunity to collaborate with a talented team, where I worked on innovative projects and developed a Convolutional Neural Network (CNN) model.",
-    color: pink,
+    color: green,
   },
 ];
