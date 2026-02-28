@@ -2,15 +2,25 @@ import genio from "../assets/images/L&T.png";
 import draic from "../assets/images/Infolabz.jpg";
 import rbl from "../assets/images/Tomato.jpg";
 import stealth from "../assets/images/Agamverse.png";
+import melzo from "../assets/images/Melzo.jpeg";
 
-import { blue, green, pink, yellow } from "../utils";
+import { blue, green, pink, yellow, orange } from "../utils";
 
 export const experiences = [
+  {
+    logo: melzo,
+    name: "Melzo",
+    joined: "Aug'25",
+    end: "Currently",
+    title: "Senior Virtual Reality Developer",
+    bio: "Developed and deployed high-performance VR applications in Unity for large-scale government and education projects. Built advanced interaction systems and in-engine admin tools for real-time visualization, content control, and scalable scene management.",
+    color: orange,
+  },
   {
     logo: stealth,
     name: "Agamverse",
     joined: "Sept'24",
-    end: "Currently",
+    end: "July,25",
     title: "Virtual Reality Developer",
     bio: "Utilized Unity for VR development, implementing optimized rendering techniques to enhance performance and user immersion. Integrated VR interaction systems for intuitive user experiences. Developed an in-engine admin panel for real-time data visualization and scene management.",
     color: blue,
